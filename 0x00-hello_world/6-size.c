@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 /**
- *main - prints the size of various types of the computer it's compiled and run on
+ *main - print size of various type of computer it's compiled on
  *Retuern: Always 0
  */
 
 int main(void)
-
 {
 	printf("Size of a char: %zu byte(s)\n", sizeof(char));
 	printf("Size of an int: %zu byte(s)\n", sizeof(int));
