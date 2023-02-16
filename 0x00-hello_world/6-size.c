@@ -2,6 +2,7 @@
 
 /**
  *main - print size of various type of computer it's compiled on
+ *
  *Retuern: Always 0
  */
 int main(void)
