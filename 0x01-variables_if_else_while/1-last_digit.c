@@ -4,10 +4,13 @@
 
 /**
  * Main - Entry point
+ *
  * assigns a random number to the variable n
  * variable n store a different value everytime the programe is run
+ *
  * Retuern: Always 0
  */
+
 int main(void)
 {
 	int n;
@@ -29,6 +32,6 @@ int main(void)
 	{
 		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, p);
 	}
-	
+
 	return (0);
 }
