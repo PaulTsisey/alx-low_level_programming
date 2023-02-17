@@ -4,7 +4,7 @@
 
 /**
  *main - assign a random number to variable n
- *determine if last digit  vafiable n is greater than 5, is 0 or less than 6
+ *determine if last digit of  vafiable n is greater than 5, 0 or less than 6
  *Return: always 0
  */
 
