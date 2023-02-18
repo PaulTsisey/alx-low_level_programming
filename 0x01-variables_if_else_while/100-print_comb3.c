@@ -16,8 +16,9 @@ int main(void)
 	for (p = 0; p < 100; p++)
 	{
 		putchar((p % 10) + '0');
+		putchar((p / 10) = '0');
 	}
-	if (p < 90)
+	if (p < 99)
 	{
 		putchar(',');
 		putchar(' ');
