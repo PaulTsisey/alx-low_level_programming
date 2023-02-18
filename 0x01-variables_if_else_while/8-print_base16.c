@@ -18,7 +18,7 @@ int main(void)
 	while
 		(o <= '9')
 		{
-			putchar(o + '0');
+			putchar(o);
 			o++;
 		}
 	while
