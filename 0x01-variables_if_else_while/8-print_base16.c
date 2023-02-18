@@ -19,13 +19,13 @@ int main(void)
 		(o < 10)
 		{
 			putchar(o + '0');
-			0++
+			o++;
 		}
 	while
 		(p <= 'f')
 		{
 			putchar(p);
-			p++
+			p++;
 		}
 	putchar('\n');
 	return (0);
