@@ -16,7 +16,7 @@ int main(void)
 	o = '0';
 	p = 'a';
 	while
-		(o < 10)
+		(o < 9)
 		{
 			putchar(o + '0');
 			o++;
