@@ -11,8 +11,8 @@ int main(void)
 	char uc;
 	char lc;
 
-	uc = 'A'
-	lc = 'a'
+	uc = 'A';
+	lc = 'a';
 	while
 		(lc <= 'z')
 	{
