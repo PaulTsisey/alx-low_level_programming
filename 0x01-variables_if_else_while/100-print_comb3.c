@@ -12,7 +12,7 @@ int main(void)
 {
 	int p;
 
-	p = '0'
+	p = '0';
 	for (p = 0; p < 100; p++)
 	{
 		putchar((p / 10) + '0');
