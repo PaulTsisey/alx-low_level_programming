@@ -11,13 +11,21 @@
 int main(void)
 {
 	int o;
+	char p;
 
 	o = '0';
+	p = 'a';
 	while
-		(o <= 15)
+		(o <= '9')
 		{
 			putchar(o + '0');
 			o++;
+		}
+	while
+		(p <= 'f')
+		{
+			putchar(p);
+			p++;
 		}
 	putchar('\n');
 	return (0);
