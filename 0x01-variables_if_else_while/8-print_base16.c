@@ -11,10 +11,8 @@
 int main(void)
 {
 	int o;
-	char p;
 
 	o = '0';
-	p = 'a';
 	while
 		(o <= 15)
 		{
