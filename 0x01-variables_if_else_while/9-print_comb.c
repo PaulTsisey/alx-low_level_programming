@@ -12,7 +12,7 @@ int main(void)
 	int p;
 
 	p = '0';
-	for (p = 0; p < 9; p++)
+	for (p = 0; p = 9; p++)
 	{
 		putchar(p + '0');
 		if (p < 9)
