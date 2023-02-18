@@ -16,16 +16,10 @@ int main(void)
 	o = '0';
 	p = 'a';
 	while
-		(o <= 9)
+		(o <= 15)
 		{
 			putchar(o + '0');
 			o++;
-		}
-	while
-		(p <= 'f')
-		{
-			putchar(p);
-			p++;
 		}
 	putchar('\n');
 	return (0);
