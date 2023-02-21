@@ -21,7 +21,7 @@ This is my task for the ALX project 0x02. C -Functions, nested loops.
 | 10. | add | A funtion that adds two integers and returns the result |
 | 11. | print_to_98 | A function that prints all natural numbers from n to 98 |
 
-* These C files were compiled on Ubuntu 20.04 LTS using gcc
-* All ends with a newline
-* All texts were editored in vi
-* No standard library was used 
+>* These C files were compiled on Ubuntu 20.04 LTS using gcc
+>* All ends with a newline
+>* All texts were editored in vi
+>* No standard library was used 
