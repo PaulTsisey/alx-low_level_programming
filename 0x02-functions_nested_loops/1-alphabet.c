@@ -3,7 +3,7 @@
 /**
  * main - prints all the alphabet in lowercase
  *followed by a newline
- *Return: Always 0
+ *Return: void
  */
 
 void print_alphabet(void)
