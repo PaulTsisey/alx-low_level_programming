@@ -1,8 +1,8 @@
 # **C - More functions, more nested loops**
 
-'''diff
+
 + This is an alx full stack engineering course, tasks based on functions and nested lopps in C programming language
-'''
+
 
 > - I came up with solutions for the tasks to meet with the learning objectives.
 > - The tasks were done with a vim editor.
@@ -11,12 +11,12 @@
 > - All codes are in betty style.
 > - Funtion prototypes were used in the tasks.
 
-###***TASKS***
+### ***TASKS***
 ---
 ---
 
 | task | name | discription |
-| :---: | :---:| :---:|
+| :---: | --- | :--- |
 | 0. | isupper | a funtion that checks for uppercase character |
 | 1. | isdigit | a funtion that checks for a digit(0 through 9) |
 | 2. | mul | a funtion that multiply two integers |
