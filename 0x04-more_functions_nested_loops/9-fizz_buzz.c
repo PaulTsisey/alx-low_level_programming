@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "maun.h"
+#include "main.h"
 
 /**
  * main - prints the numbers from 0 to 100
@@ -20,7 +20,7 @@ int main(void)
 		{
 			printf("Fizz ");
 		}
-		else if (num % 5 == 0 && num % # != 0)
+		else if (num % 5 == 0 && num % 3 != 0)
 		{
 			printf("Buzz ");
 		}
@@ -33,4 +33,5 @@ int main(void)
 			printf("%d ", num);
 		}
 	}
+	return (0);
 }
