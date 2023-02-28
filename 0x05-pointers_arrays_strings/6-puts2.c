@@ -1,6 +1,6 @@
 #include "main.h"
 
-/** 
+/**
  * puts2 - prints every other character of a string
  * starting with the first character
  * followed by a new line
@@ -21,7 +21,7 @@ void puts2(char *str)
 		str--;
 	for (t = 0; t < n; t++)
 	{
-		if (t % 2 ==0)
+		if (t % 2 == 0)
 			_putchar(str[t]);
 	}
 	_putchar('\n');
