@@ -3,7 +3,7 @@
 /**
  * puts_half - prints half a string
  * followed by a new line
- * 
+ * @str: string
  * Return: void.
  */
 
@@ -18,7 +18,7 @@ void puts_half(char *str)
 	}
 	for (n = 0; n < m; n++)
 		str--;
-	n = (m % 2 ==00) ? m / 2 : (m + 1) / 2;
+	n = (m % 2 == 00) ? m / 2 : (m + 1) / 2;
 	for (; n < m; n++)
 		_putchar(str[n]);
 
