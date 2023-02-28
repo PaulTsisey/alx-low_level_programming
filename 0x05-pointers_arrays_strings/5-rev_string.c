@@ -20,9 +20,9 @@ void rev_string(char *s)
 		s--;
 	for (i = 0; i < (count / 2); i++)
 	{
-		int p = count - 1;
-		x = s[last - i];
-		s[last -i] = s[i];
+		int q = count - 1;
+		x = s[q - i];
+		s[q -i] = s[i];
 		s[i] = x;
 	}
 }
