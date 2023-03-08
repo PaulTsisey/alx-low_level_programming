@@ -15,7 +15,7 @@ int squ_chk(int n, int m)
 	{
 		return (-1);
 	}
-	return (sq_chk(m + 1, n));
+	return (squ_chk(m + 1, n));
 }
 
 /**
@@ -28,5 +28,5 @@ int _sqrt_recursion(int n)
 {
 	if (n == 0)
 		return (0);
-	return (sq_chk(1, n));
+	return (squ_chk(1, n));
 }
