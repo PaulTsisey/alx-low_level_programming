@@ -12,9 +12,7 @@ int squ_chk(int n, int m)
 	if (m * m == n)
 		return (m);
 	if (m * m > n)
-	{
 		return (-1);
-	}
 	return (squ_chk(m + 1, n));
 }
 
