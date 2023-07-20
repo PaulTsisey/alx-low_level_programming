@@ -1,4 +1,4 @@
-#include <stlib.h>
+#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 
@@ -23,3 +23,4 @@ int main(void)
 	else
 		printf("Last digit of %d is %d and is less than and not 0\n", n, LD);
 	return (0);
+}
